@@ -17,7 +17,7 @@ Um sistema de gerenciamento de mídia digital (filmes, séries, músicas, podcas
 
 - Em construção... 
 
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 Infnet.EasyMediaLibrary.ConsoleApp/
 ├── Application/      # Casos de uso e serviços
